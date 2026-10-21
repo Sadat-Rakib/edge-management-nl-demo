@@ -1,6 +1,6 @@
 [
   {
-    "project": "edge-management-nl",
+    "project": "edge-management-nl-website",
     "source": ".",
     "worker": false,
     "files": [
